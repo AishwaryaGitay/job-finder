@@ -1,0 +1,28 @@
+[
+    {
+        "jobId": 1,
+        "coverLetterPath": "uploads/test/test_cover_letter.txt",
+        "applicantSkills": [
+            "Java",
+            "Spring"
+        ],
+        "resumePath": "uploads/test/test_resume.txt",
+        "userId": 1,
+        "applicantExperienceYears": 3,
+        "updated": true,
+        "status": "SUBMITTED"
+    },
+    {
+        "jobId": 1,
+        "coverLetterPath": "uploads/test/test_cover_letter.txt",
+        "applicantSkills": [
+            "Java",
+            "Spring"
+        ],
+        "resumePath": "uploads/test/test_resume.txt",
+        "userId": 1,
+        "applicantExperienceYears": 3,
+        "updated": true,
+        "status": "SUBMITTED"
+    }
+]

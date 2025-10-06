@@ -1,0 +1,19 @@
+[{
+    "jobStatus": "OPEN",
+    "companyName": "TechCorp",
+    "description": "Develop and maintain backend systems.",
+    "industry": "TECHNOLOGY",
+    "title": "Backend Developer",
+    "salary": "$120,000",
+    "postedDate": "2025-01-17",
+    "jobId": 1,
+    "employerId": 101,
+    "requiredExperienceYears": 3,
+    "location": "LEICESTER",
+    "requiredSkills": [
+        "Spring",
+        "SQL",
+        "Java"
+    ],
+    "jobType": "FULL_TIME"
+}]

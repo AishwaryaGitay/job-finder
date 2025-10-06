@@ -1,0 +1,22 @@
+[
+	{
+	    "date": "2026-01-01",
+	    "jobId": 5001,
+	    "meetingLink": "meet.google.com/test",
+	    "interviewId": 11505,
+	    "details": "formal",
+	    "time": "13:00",
+	    "jobSeekerId": 103,
+	    "status": "Scheduled"
+	},
+	{
+	    "date": "2025-12-12",
+	    "jobId": 5001,
+	    "meetingLink": "test",
+	    "interviewId": 22750,
+	    "details": "test",
+	    "time": "12:30",
+	    "jobSeekerId": 101,
+	    "status": "Completed"
+	}
+]

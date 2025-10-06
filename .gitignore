@@ -1,0 +1,29 @@
+# Ignore build directories
+/build/
+/target/
+
+# Ignore Eclipse IDE specific files
+/.settings/
+/.project
+.classpath
+
+# Ignore IntelliJ IDEA specific files (if you or your teammates use it)
+/.idea/
+
+# Ignore OS generated files
+.DS_Store
+Thumbs.db
+
+# Ignore log files
+*.log
+
+# Ignore compiled class files
+*.class
+
+# Ignore JAR and WAR files
+*.jar
+*.war
+
+# Ignore dependency management directories (if you later switch to using Maven or Gradle)
+*.iml
+/bin/

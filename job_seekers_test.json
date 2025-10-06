@@ -1,0 +1,11 @@
+[{
+    "password": "password123",
+    "role": "job_seeker",
+    "previousJobTitle": "Software Developer",
+    "name": "Alice",
+    "location": "New York",
+    "highestEducation": "Bachelor's",
+    "userId": 1,
+    "email": "alice@test.com",
+    "previousSalary": "100000"
+}]

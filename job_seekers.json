@@ -1,0 +1,13 @@
+[{
+    "resume": "uploads/test/test_resume.txt",
+    "password": "password123",
+    "role": "job_seeker",
+    "previousJobTitle": "Software Developer",
+    "name": "Alice",
+    "location": "New York",
+    "highestEducation": "Bachelor's",
+    "coverLetter": "uploads/test/test_cover_letter.txt",
+    "userId": 1,
+    "email": "alice@test.com",
+    "previousSalary": "100000"
+}]
